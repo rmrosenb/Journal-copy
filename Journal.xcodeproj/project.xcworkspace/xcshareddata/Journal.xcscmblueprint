@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "04101981B66E318109934C9516F88D824BB96459" : 0,
+    "78BCFD65185EF349A5B390BDB3B51B3EB42FB67B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "56448FDB-5281-4A06-9071-1D74257F99BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "04101981B66E318109934C9516F88D824BB96459" : "..\/Documents\/fmdb",
+    "78BCFD65185EF349A5B390BDB3B51B3EB42FB67B" : "Journal%20copy\/Journal\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Journal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Journal.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ccgus\/fmdb.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "04101981B66E318109934C9516F88D824BB96459"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.iu.edu\/rmrosenb\/Team-44-Ridin-Nerdy",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78BCFD65185EF349A5B390BDB3B51B3EB42FB67B"
+    }
+  ]
+}
